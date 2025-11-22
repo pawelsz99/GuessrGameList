@@ -15,4 +15,5 @@ A curated list of "guess the place / time" games and other geography puzzles.
 
 
 
-Contribute: add links or improve descriptions via PRs.
+## Contribute
+add links or improve descriptions via PRs.
