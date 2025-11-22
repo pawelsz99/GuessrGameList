@@ -18,6 +18,12 @@ A curated list of "guess the place / time" games and other geography puzzles.
 - Worldle - https://theworldle.com/
 
 
+## Not so geography
+- FoodGuessr - https://www.foodguessr.com/
+- EthnoGuessr - https://hbd.gg/
+- Songlio - https://songl.io/
+- Heardle - https://www.heardle.info/
+
 
 ## Contribute
 add links or improve descriptions via PRs.
